@@ -1,4 +1,9 @@
 {
+    "sunday": {
+      "day": "Domingo",
+      "image": "https://i.ibb.co/xSBxbNM/sunday.png",
+      "desc": "_*Lançamentos de Domingo*_\n\n↳ Blue Period\n↳ Blue Reflection Ray\n↳ Deji Meets Girl"
+  },
     "monday": {
       "day": "Segunda Feira",
       "image": "https://i.ibb.co/t4MMpq3/bitmap.png",
@@ -9,4 +14,3 @@
       "desc": "opa"
     }
   }
-
