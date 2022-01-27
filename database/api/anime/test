@@ -1,1 +1,16 @@
-
+{
+    "sunday": {
+      "day": "Domingo",
+      "image": "https://i.ibb.co/xSBxbNM/sunday.png",
+      "desc": "_*Lançamentos de Domingo*_\n\n↳ Blue Period\n↳ Blue Reflection Ray\n↳ Deji Meets Girl"
+  },
+    "monday": {
+      "day": "Segunda Feira",
+      "image": "https://i.ibb.co/t4MMpq3/bitmap.png",
+      "desc": "_*Lançamentos de Sábado*_\n\n↳ Blue Period\n↳ Blue Reflection Ray\n↳ Deji Meets Girl"
+  },
+    "tuesday": {
+      "image": "https://i.pinimg.com/originals/af/1c/30/af1c30d6d881d9447dec06149f61d2f9.png",
+      "desc": "opa"
+    }
+  }
