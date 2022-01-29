@@ -1,16 +1,32 @@
 {
-    "sunday": {
+    "domingo": {
       "day": "Domingo",
       "image": "https://i.ibb.co/MpZ0vSk/sunday-New.jpg",
-      "desc": "_*Lançamentos de Domingo*_\n\n↳ Blue Period\n↳ Blue Reflection Ray\n↳ Deji Meets Girl"
+      "desc": "_*Lançamentos de Domingo*_\n\n↳Sabiiro no Armor: Reimei\n↳Futsal Boys!!!!!\n↳Sasaki to Miyano\n↳Baraou no Souretsu\n↳Blade Runner: Black Lotus\n↳Digimon Ghost Game\n↳Kimetsu no Yaiba\n↳Boruto: Naruto Next Generations\n↳Shingeki no Kyojin\n↳One Piece"
   },
-    "monday": {
+    "segunda": {
       "day": "Segunda Feira",
-      "image": "https://i.ibb.co/t4MMpq3/bitmap.png",
-      "desc": "_*Lançamentos de Sábado*_\n\n↳ Blue Period\n↳ Blue Reflection Ray\n↳ Deji Meets Girl"
+      "image": "https://i.ibb.co/VS6z3dF/2-segunda.jpg",
+      "desc": "_*Lançamentos de Segunda*_\n\n↳Busted! Darklord\n↳Irodorimidori\n↳Princess Connect! Re:Dive\n↳Tribe Nine\n↳Sabikui Bisco\n↳Gensou Sangokushi: Tengen Reishinki\n↳Seirei Gensouki Dublado"
   },
-    "tuesday": {
-      "image": "https://i.pinimg.com/originals/af/1c/30/af1c30d6d881d9447dec06149f61d2f9.png",
-      "desc": "opa"
+    "terca": {
+      "image": "https://i.ibb.co/GMGWYTL/3-terca.jpg",
+      "desc": "_*Lançamentos de Terça*_\n\n↳\n↳Ninjala\n↳Ijiranaide, Nagatoro-san Dublado\n↳Fantasy Bishoujo Juniku Ojisan to\n↳Tensai Ouji no Akaji Kokka Saisei Jutsu\n↳Kenja no Deshi o Nanoru Kenja\n↳Deep Insanity: The Lost Child Dublado"
+    },
+    "quarta": {
+      "image": "https://i.ibb.co/W27xWwp/4-Quarta.jpg",
+      "desc": "_*Lançamentos de Quarta*_\n\n↳Tokyo 24-ku\n↳Koroshi Ai\n↳Hakozume: Kouban Joshi no Gyakushuu\n↳Orient\n↳Leadale no Daichi nite\n↳Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru Dublado"
+    },
+    "quinta": {
+      "image": "https://i.ibb.co/5RNYqKZ/5-quinta.jpg",
+      "desc": "_*Lançamentos de Quinta*_\n\n↳FreakAngels\n↳Soul Eater Dublado\n↳Assassímio\n↳Atasha Kawajiri Kodama da yo: Dangerous Lifehacker no Tadareta Seikatsu\n↳Arifureta Shokugyou de Sekai Saikyou\n\n↳Platinum End Dublado\n↳Ousama Ranking Dublado\n↳Ousama Ranking\n↳Platinum End\n↳Shaman King (2021)"
+    },
+    "sexta": {
+      "image": "https://i.ibb.co/zPQcf7b/6-sexta.jpg",
+      "desc": "_*Lançamentos de Sexta*_\n\n↳Return Of Gods\n↳Fora de Órbita\n↳Chikyuugai Shounen Shoujo\n↳Blue Period Dublado\n↳Petit Sekai\n↳Karakai Jouzu no Takagi-san\n↳Cue!\n↳Slow Loop\n↳Dolls’ Frontline\n↳Hanyou no Yashahime: Sengoku Otogizoushi Dublado\n↳Shuumatsu no Harem\n↳Vanitas no Carte"
+    },
+    "sabado": {
+      "image": "https://i.ibb.co/vCF78jL/7-sabado.jpg",
+      "desc": "_*Lançamentos de Sábado*_\n\n↳The Indomitable\n↳The Soul Of Soldier Master\n↳My Journey in an Alternate World\n↳Akebi-chan no Sailor-fuku\n↳Kaijin Kaihatsu-bu no Kuroitsu-san\n↳Sono Bisque Doll wa Koi wo Suru\n↳Shikkakumon no Saikyou Kenja\n↳Spare Me, Great Lord\n↳Saihate no Paladin Dublado\n↳Genjitsu Shugi Yuusha no Oukoku Saikenki\n↳86 Dublado\n↳Dragon Quest: Dai no Daibouken (2020)\n↳Hanyou no Yashahime: Sengoku Otogizoushi\n↳World Trigger"
     }
   }
